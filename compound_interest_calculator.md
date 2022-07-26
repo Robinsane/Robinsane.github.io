@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Compound interest calculator
-subtitle: A free application to generate the compound interest possibilities for your specific situation
+subtitle: A free application to calculate the compound interest possibilities for your specific situation
 share-img: /assets/img/cic_icon_256x256.png
 comments: true
 ---
