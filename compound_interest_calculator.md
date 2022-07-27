@@ -14,7 +14,7 @@ comments: true
 
 The "compound interest calculator" (or "ci_calc") generates a nice overview of compound interest possibilities for your specific investment plan. This overview is saved in an .xlsx Excel file with 3 sheets:  
 * The first sheet is an overview of different investment periods.
-* The second sheet gives all possible outcomes for each month + average yearly return comibination
+* The second sheet gives all possible outcomes for each month + average yearly return combination
 * The third sheet shows the month-over-month equivalent of year-on-year returns from 0 - 100%
 
 ## Why ci_calc
