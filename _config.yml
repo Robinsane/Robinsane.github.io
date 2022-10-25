@@ -19,6 +19,7 @@ navbar-links:
   Projects:
     - CI calc: "compound_interest_calculator"
     - Articles: "articles"
+    - Eindwerk beleggen: "eindwerk_beleggen"  # temp to update faster ???
   Support us: "support_us"
 
 # --- Logo --- #
