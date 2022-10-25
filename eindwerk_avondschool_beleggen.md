@@ -59,17 +59,17 @@ De focus zou liggen op liquide obligaties met hoge ratings (A tot triple A) met 
 
 De geschiedenis leert ons dat vastgoed een goede investering is: gemiddeld 5 a 8% rendement per jaar. Daarbovenop kan de eigenaar ook nog eens genieten van huurinkomsten. Alhoewel ik geen al te grote fan ben van vastgoed (illiquide, moeilijk te spreiden, zeer sterke rechten huurder,...), zal dit ongetwijfeld reeds ietwat verpakt zitten in mijn verzameling ETF's en aandelen.
 
-Aangezien Belgen "met een baksteen in hun maag geboren worden" en er geen belasting dgeld voor particuliere huurinkomsten, wil ik toch de deur openhouden voor eventuele vastgoed opportuniteiten. Ik zal er niet naar op zoek gaan, maar als een gouden opportuniteit zich voordoet, zou ik over cash moeten beschikken voor een hypotheek. In de eerste 2-tal jaar zal deze cash nog beschikbaar zijn, daarna zou dit moeten komen door verkoop van aandelen, obligaties of trackers.
+Aangezien Belgen "met een baksteen in hun maag geboren worden" en er particuliere huurinkomsten belastingsvrij zijn, wil ik toch de deur openhouden voor eventuele vastgoed opportuniteiten. Ik zal er niet naar op zoek gaan, maar als een gouden opportuniteit zich voordoet, zou ik over cash moeten beschikken voor een hypotheek. In de eerste 2-tal jaar zal deze cash nog beschikbaar zijn, daarna zou dit moeten komen door verkoop van aandelen, obligaties of trackers.
 
 Wat feitelijke huurinkomsten betreft zou ik conservatief slechts rekenen op 50% van het betaalde bedrag. Andere 50% gaat naar onderhoud pand, gewerkte uren, kadastraal inkomen en verzekeringen.
 
 ### Pensioensparen (& fondsen)
 
-Bij Fondsen betaal je voor tussenpersonen, analisten, administratie etc. terwijl ze meestal de algemene markt niet verslaan.
+Bij Fondsen betaal je voor tussenpersonen, analisten, administratie etc. en dit terwijl ze meestal de algemene markt niet verslaan.
 Een pensioenspaarfonds is echter een ander verhaal. Pensioensparen wordt in België fiscaal sterk aangemoedigd en is daarom een goede extra spreiding in onze portefeuille. In dit voorbeeld is het procentueel iets minder significant, maar toch de moeite om te vermelden.
 
 De "klassieke regeling" van jaarlijks €990 is procentueel het meest interessant, dus kiezen we hiervoor: maandelijks €82,5 investeren, dit levert elk jaar 30% (€297) belastingsvermindering op.
-Je laat jouw pensioensparen best geparkeerd staan voor de volle looptijd. Anders valt enkel deze belastingsvermindering weg, niet de geleden kosten. Aangezien dat deze investering jarenlang onaangeraakt blijft is het best om een beleggersprofiel te kiezen met focus op aandelen.
+Je laat jouw pensioensparen best geparkeerd staan voor de volle looptijd. Anders valt enkel deze belastingsvermindering weg, niet de geleden kosten. Aangezien deze investering jarenlang onaangeraakt blijft, is het best om een beleggersprofiel te kiezen met focus op aandelen.
 
 Ter illustratie nemen we even het dynamisch KBC pensioenspaarplan "Pricos SRI KAP" (2% instapkosten, jaarlijkse kosten van 1,23% en uitstapkosten einde looptijd van 8%):  
 1 / 0,7 * 0,98 * 0,92 = 1,288  
@@ -77,9 +77,9 @@ Dit pensioenspaarfonds heeft jaarlijks kosten van 1,23%, maar we kunnen wel elke
 
 ### Derivaten
 
-In België geld er belasting op speculatieve meerwaarde van 33%. Als men zich niet als "goede huisvader" gedraagt. Omwille hiervan, alsook het feit dat ze arbeidsintensiever zijn, zou ik ver weg blijven van derivaten. derivaten zijn zeer risicovol en hebben in België meer downside dan upside.
+In België wordt een belasting gehoffen van 33% op speculatieve meerwaarde, als de fiscus acht dat dit niet het gedrag van een "goede huisvader" was. Om deze reden, alsook het feit dat ze arbeidsintensiever zijn, zou ik niet investeren in derivaten. Derivaten zijn zeer risicovol en hebben in België meer downside dan upside.
 
-Uitzonderlijk zou ik put opties kopen overwegen na een periode met een onvoorstelbaar rendement. Zo kan ik mezelf en mijn sterk gestegen portefeuille verzekeren tegen marktcorrecties. Het is als het ware een alternatief voor stop-loss sell orders, waarbij je sowieso in de markt geïnvesteerd blijft.
+Enkel na een periode van onvoorstelbaar hoog rendement, zou ik het kopen van put opties overwegen. Zo kan ik mezelf en mijn sterk gestegen portefeuille verzekeren tegen marktcorrecties. Het is als het ware een alternatief voor stop-loss sell orders, waarbij je sowieso in de markt geïnvesteerd blijft.
 
 ### Alternatieve investeringen
 
@@ -92,20 +92,21 @@ Fysieke alternative investeringen zoals goud, grondstoffen, olie, wijn... intere
 We simuleren het volgende:  
 Bij start gaat 33% van het startbedrag onmiddelijk naar ETF's en 17% naar obligaties.  
 De resterende 50% laten we geleidelijk aan in de markt stromen over 2 à 4 jaar; de 50% wordt origineel verspreid over 4 jaar, maar indien de markt lager staat dan op startdatum investeren we het dubbele van een normale maand.
-Dit simuleren we versimpeld door gedurende 3 jaar een constante te investeren. De deze constante, evenals de maandelijkse storting van €2000 worden 50/50 verdeeld over ETF's en enkele aandelen.
+Dit simuleren we versimpeld door gedurende 3 jaar een constante te investeren. Deze constante, evenals de maandelijkse storting van €2000 worden 50/50 verdeeld over ETF's en enkele aandelen.
 Aangezien een potentiële vastgoeddeal onvoorspelbaar is, wordt deze weggelaten uit de berekeningen. Normaal zou deze deal wel een hoger rendement opleveren omwille van het hefboom effect door de hypotheek.
 
 Volgende verwachte gemiddelde rendementen werden gebruikt:
 - ETF's en aandelen: 7%
 - obligaties: 4%
-- cash: 0.05% (spaarrekening)
+- cash: 0,05% (spaarrekening)
 
-Zo blijkt dat we **na 25 jaar** uitkomen op **€3.929.272** , dit ligt **tussen de 6,5% en 7% gemiddeld rendement**, wat logisch is aangezien we streefden naar het gemiddeld rendement van aandelen.
+Zo blijkt dat we **na 25 jaar** uitkomen op **€3.929.272**. Dit ligt **tussen de 6,5% en 7% gemiddeld rendement**, wat logisch is aangezien we streefden naar het gemiddeld rendement van aandelen.
 
 Ter illustratie: de Europese Centrale Bank mikt op een jaarlijkse inflatie van 2%.
 Dit wilt zeggen dat enkel en alleen om geen koopkracht te verliezen, onze portefeuille na 25 jaar minstens €1.597.333 moest bedragen ([berekening voor inflatie van 2%](https://github.com/Robinsane/portfolio_projection/blob/master/calc_inflation.py))
 
 **Simulatie** ([berekening](https://github.com/Robinsane/portfolio_projection/blob/master/assignment_portfolio.py)):  
+
 
 | Datum      | cash (€) | ETF's (€) | aandelen (€)| obligaties (€) | totaalwaarde (€)| 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
