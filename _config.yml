@@ -17,7 +17,8 @@ author: Robin Boone
 navbar-links:
   Home: "index"
   Projects:
-    - CI calc: "compound_interest_calculator"
+    - CI calc: "compound interest calculator"
+    - Articles: "free articles"
   Support us: "support_us"
 
 # --- Logo --- #
