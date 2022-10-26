@@ -8,7 +8,7 @@ share-img: /assets/img/cic_icon.png
 social-share: true
 ---
 
-[Direct link to article](https://projub.com/eindwerk_beleggen)  
+### [Direct link to article](https://projub.com/eindwerk_beleggen)  
 
 
 
