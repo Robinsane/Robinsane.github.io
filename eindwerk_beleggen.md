@@ -31,7 +31,7 @@ Vanaf dag 1 zou ik onmiddelijk 33% (€165.000) in wereld ETF's stoppen met een 
 - 88% (€145.200) "SPDR MSCI World UCITS ETF USD" (ISIN IE00BFY0GT14)
 - 12% (€19.800) "iShares MSCI EM UCITS ETF USD" (ISIN IE00B4L5YC18)
 
-Vervolgens zou ik maandelijks "Vanguard FTSE All-World UCITS ETF USD Acc" (ISIN IE00BK5BQT80) bijkopen via het brokerplatform Degiro. Bij Degiro laat men 1x per maand transactiekosten vallen voor 1 aankoop uit een kernselectie aan beleggingen, op deze manier betalen we vanaf dag 2 geen transactiekosten meer voor onze trackers. Het resterende van het startbedrag dat bedoeld is voor trackers zal over een periode van 2 à 4 jaar gespreid worden; indien de bestaande portefeuille in het rood staat wordt de storting die maand verdubbeld.
+Vervolgens zou ik maandelijks "Vanguard FTSE All-World UCITS ETF USD Acc" (ISIN IE00BK5BQT80) bijkopen via het brokerplatform [Degiro](https://www.degiro.nl/start-met-beleggen?id=774C8289&utm_source=mgm). Bij [Degiro](https://www.degiro.nl/start-met-beleggen?id=774C8289&utm_source=mgm) laat men 1x per maand transactiekosten vallen voor 1 aankoop uit een kernselectie aan beleggingen, op deze manier betalen we vanaf dag 2 geen transactiekosten meer voor onze trackers. Het resterende van het startbedrag dat bedoeld is voor trackers zal over een periode van 2 à 4 jaar gespreid worden; indien de bestaande portefeuille in het rood staat wordt de storting die maand verdubbeld.
 
 ### Aandelen
 
