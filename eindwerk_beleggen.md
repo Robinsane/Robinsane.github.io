@@ -93,7 +93,7 @@ We simuleren het volgende:
 Bij start gaat 33% van het startbedrag onmiddelijk naar ETF's en 17% naar obligaties.  
 De resterende 50% laten we geleidelijk aan in de markt stromen over 2 à 4 jaar; de 50% wordt origineel verspreid over 4 jaar, maar indien de markt lager staat dan op startdatum investeren we het dubbele van een normale maand.
 Dit simuleren we versimpeld door gedurende 3 jaar een constante te investeren. Deze constante, evenals de maandelijkse storting van €2000 worden 50/50 verdeeld over ETF's en enkele aandelen.
-Aangezien een potentiële vastgoeddeal onvoorspelbaar is, wordt deze weggelaten uit de berekeningen. Normaal zou deze deal wel een hoger rendement opleveren omwille van het hefboom effect door de hypotheek.
+Aangezien een potentiële vastgoeddeal onvoorspelbaar is, wordt deze weggelaten uit de berekeningen. Normaal zou deze deal wel een hoger rendement opleveren omwille van de hypotheek zijn hefboomeffect.
 
 Volgende verwachte gemiddelde rendementen werden gebruikt:
 - ETF's en aandelen: 7%
