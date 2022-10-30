@@ -39,7 +39,7 @@ Zelf gekozen aandelen zullen een kleinere portie van de portefeuille omvatten. M
 
 Ik zal weinig tot geen tijd stoppen in fundamentele analyse van bedrijven, ervan uitgaande dat professionele analisten reeds al het werk deden en de publiek gekende informatie reeds min of meer correct in de marktprijs verwerkt is.
 
-Wel leg ik aankoopbepreking op aan de hand van fundamentele peilers,  ik zal enkel aandelen kopen indien het bedrijf:
+Wel leg ik aankoopbeperkingen op aan de hand van fundamentele peilers,  ik zal enkel aandelen kopen indien het bedrijf:
 - een realistische prijs heeft: koers-winstverhouding < 20 voor de IT sector, anders < 15
 - de laatste 3 jaar winstgevend geweest is
 - een solvabel bedrijf is: current ratio > 1 (huidig vermogen > huidige schulden)
