@@ -17,6 +17,7 @@ author: Robin Boone
 navbar-links:
   Home: "index"
   Projects:
+    - Fintastisch podcast: "fintastisch"
     - CI calc: "compound_interest_calculator"
     - Articles: "articles"
   Support us: "support_us"
